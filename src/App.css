@@ -1,0 +1,140 @@
+.navbar {
+  background-color: rgb(30, 30, 97);
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 0 0 15px 4px;
+  margin: 2%;
+  margin-top: 20px;
+}
+
+.nav-item {
+  padding: 5px;
+  border-radius: 30px 30px 30px 30px;
+  transition-duration: 1s;
+}
+
+body {
+  background-color: silver;
+}
+
+.container {
+  border: 6px;
+  border-width: 100%;
+  border-color: rgb(30, 30, 97); 
+  border-style: solid;
+  border-radius: 30px 30px 30px 30px;
+  box-shadow: 0 0 15px 2px;
+  background-color: white;
+}
+
+.home, .sidenavigation, .AboutMe, .resume, .app {
+  Padding: 20px;
+}
+
+.home h2, .sidenavigation, .AboutMe h2, .app, .card h2 {
+  font-size: 20px;
+}
+
+#Welcome {
+  border-bottom: black 2px solid;
+}
+
+#SideNav {
+  border-left: black 2px solid;
+}
+
+.home h1 {
+  font-size: 35px;
+}
+
+.btn:hover, .nav-item:hover, .nav-item.active:hover {
+  background-color: rgb(85, 115, 248);
+  border-radius: 30px 30px 30px 30px;
+  color: white;
+}
+
+.btn:active, .nav-item:active, .nav-item.active {
+  background-color: rgb(0, 0, 71);
+  border-radius: 30px 30px 30px 30px;
+  color: white;
+}
+
+.btnConctainer {
+  padding: 5px;
+  margin: 5%;
+}
+
+.btn {
+  background-color: rgb(30, 30, 97);
+  border-radius: 30px 30px 30px 30px;
+  box-shadow: 0 0 15px 2px black;
+  border-color: rgb(18, 18, 80);
+  width: 100%;
+  height: 100px;
+  transition-duration: 1s;
+  color: white;
+}
+
+h2.bold {
+  font-weight: bold;
+  font-size: 28px;
+}
+
+h2.resumetitle {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
+
+h2.education, h2.experience {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#docicon {
+  max-width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resume h1 {
+  text-align: center;
+  font-size: 45px;
+}
+
+.black {
+  color: black;
+  width: auto;
+  font-size: 15px;
+}
+
+.blue {
+  color: blue;
+}
+
+.black:hover, .blue:hover {
+  color: rgb(30, 30, 97);
+}
+
+.footer {
+  background-color: rgb(30, 30, 97);
+  text-align: center;
+  padding: 5px;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 0 0 15px 4px;
+  margin: 2%;
+}
+
+.footer p, a, a:hover {
+  color: white;
+}
+
+@media screen and (max-width: 990px) {
+  #SideNav {
+      border-left: none;
+      border-top: black 2px solid;
+      width: 100%;
+  }
+}
