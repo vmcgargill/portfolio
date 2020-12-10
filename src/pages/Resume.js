@@ -19,7 +19,7 @@ const Resume = () => {
       </ul>
       <h2 class="bold">Education and Certificates</h2>
       <h2 class="education">University of Colorado Denver | Bachelor of Science in Business Administration and Management | Graduated: 12/15/2018</h2>
-      <h2 class="education">University of Denver | Coding Bootcamp Full Stack Development Certificate | In progress, will graduate 12/16/2020.</h2>
+      <h2 class="education">University of Denver | Coding Bootcamp Full Stack Development Certificate | Graduated 12/08/2020.</h2>
       <h2 class="bold">Professional Experience</h2>
       <h2 class="experience">Order Management Specialist | Dreamstyle Remodeling | Englewood, CO | May 2019 – March 2020</h2>
       <ul>

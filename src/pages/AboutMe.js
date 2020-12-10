@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"
 
 const AboutMe = () => {
   return (
@@ -12,22 +13,20 @@ const AboutMe = () => {
               I have 2 years of previous experience working in IT while I was in college. I also have 
               over five years of experience working in an office setting. To add to my experience, 
               I graduated college at the University of Colorado Denver with a Bachelor of Science in 
-              Business Administration Management. I am currently attending the University of Denver Coding Bootcamp 
+              Business Administration Management. I completed the University of Denver Coding Bootcamp 
               where I am learning even more code writing skills. In the University of Denver Coding Bootcamp, 
               I learned how to work with others on the same coding projects, how to develop both front end and backend, 
               and how to learn new skills, languages, or frameworks on the fly. 
             </p>
             <p>
               One of my favorite hobbies is writing code as it is my dream job; the type of job I would do for free. 
-              I have experience with HTML, CSS, JavaScript, jQuery, APIs, GIT, bootstrap, XML, Java, Node.js, PHP, Android Programming, 
-              Python, C#, relation databases, SQL databases, NGINX Servers, setting up both email servers and web servers, CentOS 7, 
-              Ubuntu, Active Directory, IntelliJ, and Visual Studio. If you would like to see examples of my code, please check out 
-              the app section of my portfolio and my GitHub account which is linked in the portfolio as well.
+              If you would like to see examples of my code, please check out the <Link class="blue" to={"/apps"}>app section</Link> of my portfolio and 
+              my <a class="blue" href={"https://github.com/vmcgargill"}>GitHub account</a> which is linked in the portfolio as well.
             </p>
             <p>
-              I consider myself to be a strong candidate for a job position as a developer because of my previous experience in IT 
-              combined with my business savviness from being a Business Management major. I am eager to combine my tech experience with 
-              my business experience and coding skill set to become an elite developer.
+              My consider myself to be a strong candidate as my experience includes: JavaScript, HTML, CSS, Bootstrap, React, jQuery, NodeJS, PassportJS,
+              Java, Python, MongoDB, MySQL, PostgreSQL, XML, PHP, Git, NGINX Servers, Express Servers, Linux: (Ubuntu, CentOS), email servers (Postfix & Dovecot),
+              Windows 10, Office Suite, Active Directory, Microsoft Exchange, Wod, Excel, Skype for Business, and Powerpoint.
             </p>
           </div>
       </div>
