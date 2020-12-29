@@ -14,8 +14,8 @@ const Apps = () => {
                     <img src="screenshots/SkyLimitEcommerce.PNG" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Programming Quiz</h4>
-                    <p><a href="https://github.com/vmcgargill/04CodeQuiz" class="blue" target="_blank">GitHub Repository</a></p>
-                    <p><a href="https://vmcgargill.github.io/04CodeQuiz/" class="blue" target="_blank">GitHub Live Page</a></p>
+                    <p><a href="https://github.com/vmcgargill/CodeQuiz" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://vmcgargill.github.io/CodeQuiz/" class="blue" target="_blank">GitHub Live Page</a></p>
                     <img src="screenshots/quiz.PNG" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Blog Machine</h4>
@@ -24,7 +24,7 @@ const Apps = () => {
                     <img src="screenshots/BlogMachine.png" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Note Taker</h4>
-                    <p><a href="https://github.com/vmcgargill/11NoteTaker" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://github.com/vmcgargill/NoteTaker" class="blue" target="_blank">GitHub Repository</a></p>
                     <p><a href="https://vinces-note-taker.herokuapp.com/" class="blue" target="_blank">Heroku Live Page</a></p>
                     <img src="screenshots/NoteTaker.png" width="100%"></img>
                   <hr class="solid"></hr>
@@ -44,13 +44,13 @@ const Apps = () => {
                     <img src="screenshots/meal-assistant.png" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Employee Management System</h4>
-                    <p><a href="https://github.com/vmcgargill/12EmployeeManagementSystem" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://github.com/vmcgargill/EmployeeManagementSystem" class="blue" target="_blank">GitHub Repository</a></p>
                     <p><a href="https://github.com/vmcgargill/HerokuEmployeeMGMTSYS" class="blue" target="_blank">Front End Github Repo</a></p>
                     <p><a href="https://vinces-employee-management-sys.herokuapp.com/" class="blue" target="_blank">Heroku Deployed Page</a></p>
                     <img src="screenshots/employeemgmtsys.png" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Express Handlebar App (Burger Devourer Machine)</h4>
-                    <p><a href="https://github.com/vmcgargill/13NodeExpressHandlebars" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://github.com/vmcgargill/NodeExpressHandlebars" class="blue" target="_blank">GitHub Repository</a></p>
                     <p><a href="https://burger-devourer-machine.herokuapp.com/" class="blue" target="_blank">Heroku Deployed Page</a></p>
                     <img src="screenshots/burgerdevourer.png" width="100%"></img>
               </div>
