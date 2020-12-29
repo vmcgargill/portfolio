@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div class="footer">
       <p>
-        <a class="copyright">&copy; 2020 Vincent McGargill</a> 
+        <a class="copyright">&copy; 2021 Vincent McGargill</a> 
       </p>
       <p>
       Email: <a class="email" id="email" href="mailto:vincentmcgargill@gmail.com">vincentmcgargill@gmail.com</a>
