@@ -124,3 +124,9 @@ h2.bold {
       width: 100%;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .resumeDoc {
+    width: 100%;
+  }
+}
