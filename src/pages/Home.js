@@ -28,16 +28,12 @@ const Home = () => {
         <div class="row">
           <div class="home" id="SideNav">
             <h1 class="bold">Contact Info:</h1>
-            <h2 class="bold">Email:</h2>
-            <h2 href="mailto:vincentmcgargill@gmail.com">vincentmcgargill@gmail.com</h2>
-            <h2 class="bold">Work Email:</h2>
-            <h2>N/A</h2>
-            <h2 class="bold">School Email:</h2>
-            <h2 href="mailto:vincent.mcgargill@du.edu">vincent.mcgargill@du.edu</h2>
-            <h2 class="bold">Cell Phone:</h2>
-            <h2 class="blue">(720)-579-3821</h2>
-            <h2 class="bold">Work phone:</h2>
-            <h2 class="bold">N/A</h2>
+            <h5 class="bold">Email:</h5>
+            <p><a href="mailto:vincentmcgargill@gmail.com" class="blue">vincentmcgargill@gmail.com</a></p>
+            <h5 class="bold">LinkedIn:</h5>
+            <p><a href="https://www.linkedin.com/in/vincent-mcgargill-b6244660/" target="_blank" class="blue">https://www.linkedin.com/in/vincent-mcgargill-b6244660/</a></p>
+            <h5 class="bold">GitHub:</h5>
+            <p><a href="https://github.com/vmcgargill" target="_blank" class="blue">https://github.com/vmcgargill</a></p>
           </div>
         </div>
       </div>

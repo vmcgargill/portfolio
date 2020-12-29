@@ -7,27 +7,14 @@ const AboutMe = () => {
       <div class="row">
         <div class="col-sm-6 col-md-6 col-lg-3"><img src="Picture1.png" alt="Profile pic"></img></div>
           <div class="col-sm-12 col-md-12 col-lg-9" id="aboutmepic">
-            <h1>About Me:</h1>
-            <p>
-              To tell you more about myself, with my career I want to become a software developer. 
-              I have 2 years of previous experience working in IT while I was in college. I also have 
-              over five years of experience working in an office setting. To add to my experience, 
-              I graduated college at the University of Colorado Denver with a Bachelor of Science in 
-              Business Administration Management. I completed the University of Denver Coding Bootcamp 
-              where I am learning even more code writing skills. In the University of Denver Coding Bootcamp, 
-              I learned how to work with others on the same coding projects, how to develop both front end and backend, 
-              and how to learn new skills, languages, or frameworks on the fly. 
-            </p>
-            <p>
-              One of my favorite hobbies is writing code as it is my dream job; the type of job I would do for free. 
-              If you would like to see examples of my code, please check out the <Link class="blue" to={"/apps"}>app section</Link> of my portfolio and 
-              my <a class="blue" href={"https://github.com/vmcgargill"}>GitHub account</a> which is linked in the portfolio as well.
-            </p>
-            <p>
-              My consider myself to be a strong candidate as my experience includes: JavaScript, HTML, CSS, Bootstrap, React, jQuery, NodeJS, PassportJS,
-              Java, Python, MongoDB, MySQL, PostgreSQL, XML, PHP, Git, NGINX Servers, Express Servers, Linux: (Ubuntu, CentOS), email servers (Postfix & Dovecot),
-              Windows 10, Office Suite, Active Directory, Microsoft Exchange, Wod, Excel, Skype for Business, and Powerpoint.
-            </p>
+            <h1>Brand Statement:</h1>
+            <p>I am an ambitious Full Stack Developer leveraging a background in business, IT, and Order Management. 
+              I also have obtained a Bachelor of Science Degree in Business Administration Management at the University of 
+              Colorado Denver and a Full-Stack Developer Certificate at the University of Denver. I have a wide variety of 
+              technical skills that include JavaScript, Java, Python, HTML, CSS, XML, SQL Databases, MongoDB databases, Express, 
+              NGINX, Node.js, React.js, and jQuery. I have work and school experience collaborating in teams on Software Development 
+              projects using a wide variety of technologies and languages. I enjoy working in teams and collaborating to solve issues 
+              and to build apps that are user friendly. I plan to use my background in IT and business management to create software that improves processes.</p>
           </div>
       </div>
     </div>
