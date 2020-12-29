@@ -29,13 +29,13 @@ const Apps = () => {
                     <img src="screenshots/NoteTaker.png" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Day Planner</h4>
-                    <p><a href="https://github.com/vmcgargill/05DayPlanner" class="blue" target="_blank">GitHub Repository</a></p>
-                    <p><a href="https://vmcgargill.github.io/05DayPlanner/" class="blue" target="_blank">GitHub Live Page</a></p>
+                    <p><a href="https://github.com/vmcgargill/DayPlanner" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://vmcgargill.github.io/DayPlanner/" class="blue" target="_blank">GitHub Live Page</a></p>
                     <img src="screenshots/dayplanner.PNG" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Weather Dashboard</h4>
-                    <p><a href="https://github.com/vmcgargill/06WeatherDashboard" class="blue" target="_blank">GitHub Repository</a></p>
-                    <p><a href="https://vmcgargill.github.io/06WeatherDashboard/" class="blue" target="_blank">GitHub Live Page</a></p>
+                    <p><a href="https://github.com/vmcgargill/WeatherDashboard" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://vmcgargill.github.io/WeatherDashboard/" class="blue" target="_blank">GitHub Live Page</a></p>
                     <img src="screenshots/weatherdashboard.PNG" width="100%"></img>
                   <hr class="solid"></hr>
                     <h4>Meal Assistant</h4>
