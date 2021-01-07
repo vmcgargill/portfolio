@@ -53,6 +53,11 @@ const Apps = () => {
                     <p><a href="https://github.com/vmcgargill/NodeExpressHandlebars" class="blue" target="_blank">GitHub Repository</a></p>
                     <p><a href="https://burger-devourer-machine.herokuapp.com/" class="blue" target="_blank">Heroku Deployed Page</a></p>
                     <img src="screenshots/burgerdevourer.png" width="100%"></img>
+                  <hr class="solid"></hr>
+                    <h4>Prismic Demo App</h4>
+                    <p><a href="https://github.com/vmcgargill/prismic-demo-app" class="blue" target="_blank">GitHub Repository</a></p>
+                    <p><a href="https://prismic-demo-app.herokuapp.com/" class="blue" target="_blank">Heroku Deployed Page</a></p>
+                    <img src="screenshots/prismic-demo.png" width="100%"></img>
               </div>
           </div>
       </div>
